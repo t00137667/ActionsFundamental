@@ -65,3 +65,4 @@ For this workshop you need the following:
 - A free account for https://github.com
 
 a quick edit
+a quick edit 2
