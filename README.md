@@ -64,3 +64,4 @@ For this workshop you need the following:
 - A laptop (Windows, Mac, or Linux)
 - A free account for https://github.com
 
+a quick edit
